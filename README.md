@@ -1,2 +1,2 @@
-# ising-djwllmsn
-Ising model project, hopefully with further extensions using ML
+# ising-dominicwllmsn
+Ising model project, hopefully (soon) with further extensions using ML
