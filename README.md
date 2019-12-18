@@ -1,2 +1,2 @@
 # ising-dominicwllmsn
-Ising model project, hopefully (soon) with further extensions using ML
+Ising model project - further extensions using ML coming.
