@@ -1,2 +1,2 @@
-# ising-dominicwllmsn
-Ising model project - further extensions using ML coming.
+# markov chain - dominicwllmsn
+Markov chain Ising model project
