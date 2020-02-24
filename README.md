@@ -1,2 +1,2 @@
 # markov chain - dominicwllmsn
-Markov chain Ising model project
+Markov chain Ising model simulations project
